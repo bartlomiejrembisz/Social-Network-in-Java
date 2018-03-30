@@ -12,5 +12,6 @@ Features:
 - SQL Database
 
 Developed using Java Sockets
+
 Dependencies:
 - H2 Engine for embedded SQL support
