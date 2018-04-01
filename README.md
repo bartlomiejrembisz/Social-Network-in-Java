@@ -2,7 +2,7 @@
 
 A multi-threaded networking application written in Java allowing the users to upload music and share it with friends.
 
-**Features:**
+## Features:
 - Login/registration
 - Friend system
 - Image and music upload
@@ -13,17 +13,17 @@ A multi-threaded networking application written in Java allowing the users to up
 
 Developed using Java Sockets
 
-**Dependencies:**
+## Dependencies:  
 - H2 Engine for embedded SQL support
 
-**Usage:**  
+## Usage:
 - Start the server
 - Start the chat server
 - Connect with the clients
 - Register
 - Log in
 
-### Screenshots
+## Screenshots
 
 User Interface:
 
