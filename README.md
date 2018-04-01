@@ -1,6 +1,6 @@
 # Social Network in Java
 
-A networking application written in Java allowing the users to upload music and share it with friends.
+A multi-threaded networking application written in Java allowing the users to upload music and share it with friends.
 
 **Features:**
 - Login/registration
@@ -15,6 +15,13 @@ Developed using Java Sockets
 
 **Dependencies:**
 - H2 Engine for embedded SQL support
+
+**Usage:**  
+- Start the server
+- Start the chat server
+- Connect with the clients
+- Register
+- Log in
 
 ### Screenshots
 
