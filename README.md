@@ -2,7 +2,7 @@
 
 A networking application written in Java allowing the users to upload music and share it with friends.
 
-Features:
+**Features:**
 - Login/registration
 - Friend system
 - Image and music upload
@@ -13,9 +13,10 @@ Features:
 
 Developed using Java Sockets
 
-Dependencies:
+**Dependencies:**
 - H2 Engine for embedded SQL support
 
+### Screenshots
 
 User Interface:
 
